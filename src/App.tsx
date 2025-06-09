@@ -5,7 +5,7 @@ export default function App() {
 return (
 <main>
 <Header image={{ src: logo, alt: "Spotify Image" }}>
-<h1>Albums</h1>
+<h1>BT Work Experience</h1>
 </Header>
 <AlbumList />
 </main>

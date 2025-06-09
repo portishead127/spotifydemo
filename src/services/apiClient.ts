@@ -3,7 +3,7 @@ const apiClient = axios.create({
 baseURL: "https://api.spotify.com",
 headers: {
 "Content-Type" : "application/x-www-form-urlencoded",
-"Authorization" : 'Bearer BQDA5Fe4dGtURM6AVmmfPskox6r6Lak197Ffz1YmdnTcMe_pPkM8mM40njzlykWjc-JzE8m6Od-tTzuJLNCseU9p8Q2OLDq_jcsTIQT9_mPaJ7WLYtg'
+"Authorization" : 'Bearer BQCo8DjbdorVgJGg-fp4eFMzb7XWDmR6YeHqDATS1swsoTBrQH1GqjwZ69foV44LuIFRtjIm6NftTNs5nGBofjM_Zy1WdbpsRzBk_aLJePXOf9I7rCNiee68iRtQiX9H5e0u5eX0moU'
 },
 timeout: 10000,
 });
